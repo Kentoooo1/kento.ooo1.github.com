@@ -1,0 +1,5 @@
+<div class="mini-gallery">
+  <img src="img/thiri.jpg" alt="Thiri Photo" class="mini-photo">
+  <img src="img/love2.jpg" alt="Love 2" class="mini-photo">
+  <img src="img/cute3.jpg" alt="Cute 3" class="mini-photo">
+</div>
